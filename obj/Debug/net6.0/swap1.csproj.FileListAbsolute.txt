@@ -1,0 +1,15 @@
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.csproj.AssemblyReference.cache
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.AssemblyInfoInputs.cache
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.AssemblyInfo.cs
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.csproj.CoreCompileInputs.cache
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\bin\Debug\net6.0\swap1.exe
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\bin\Debug\net6.0\swap1.deps.json
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\bin\Debug\net6.0\swap1.runtimeconfig.json
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\bin\Debug\net6.0\swap1.dll
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\bin\Debug\net6.0\swap1.pdb
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.dll
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\refint\swap1.dll
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.pdb
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\swap1.genruntimeconfig.cache
+C:\Users\ICT-LAP2\source\repos\swap1\swap1\obj\Debug\net6.0\ref\swap1.dll
